@@ -42,7 +42,7 @@
 			<dict>
 				<key>port-count</key>
 				<data>
-				FwAAAA==
+				GgAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -61,7 +61,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						AgAAAA==
+						BAAAAA==
 						</data>
 					</dict>
 					<key>HS03</key>
@@ -70,7 +70,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						AwAAAA==
+						BQAAAA==
 						</data>
 					</dict>
 					<key>HS04</key>
@@ -79,7 +79,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						BAAAAA==
+						BgAAAA==
 						</data>
 					</dict>
 					<key>HS05</key>
@@ -88,7 +88,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						BQAAAA==
+						BwAAAA==
 						</data>
 					</dict>
 					<key>HS06</key>
@@ -97,16 +97,16 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						BgAAAA==
+						CgAAAA==
 						</data>
 					</dict>
 					<key>HS07</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
-						BwAAAA==
+						DAAAAA==
 						</data>
 					</dict>
 					<key>HS08</key>
@@ -133,7 +133,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						EgAAAA==
+						FAAAAA==
 						</data>
 					</dict>
 					<key>SS03</key>
@@ -142,7 +142,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						EwAAAA==
+						FQAAAA==
 						</data>
 					</dict>
 					<key>SS04</key>
@@ -151,7 +151,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FAAAAA==
+						FgAAAA==
 						</data>
 					</dict>
 					<key>SS05</key>
@@ -160,7 +160,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FQAAAA==
+						FwAAAA==
 						</data>
 					</dict>
 					<key>SS06</key>
@@ -169,16 +169,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FgAAAA==
-						</data>
-					</dict>
-					<key>SS07</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>
-						FwAAAA==
+						GgAAAA==
 						</data>
 					</dict>
 				</dict>
