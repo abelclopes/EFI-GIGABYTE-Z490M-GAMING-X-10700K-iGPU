@@ -1,6 +1,6 @@
 # Gigabyte Z490M Gaming X + i7 10700K + iGPU
 
-**Latest working macOS**: 12.1
+**Latest working macOS**: 13.1
 <br>
 **Current OpenCore**: 0.8.8
 
